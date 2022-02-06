@@ -1,5 +1,5 @@
 # Python_Neural_Network
-A basic neural network coding in Python without the use of machine learning packages.
+A basic neural network written in Python without the use of machine learning packages.
 
 The theory that I used to write the code based on information in the online book Neural Networks and Deep Learning by Micheal Nielsen. http://neuralnetworksanddeeplearning.com/
 

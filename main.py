@@ -4,7 +4,7 @@ import numpy as np
 #Network settings
 weightRange = [-1, 1]
 biasRange = [-1, 1]
-#Input values the sigmoid of outputs
+
 inputValues = []
 testValues = []
 expectedOutput = []
